@@ -3,4 +3,4 @@ BasicOS isn't like regular operating systems. For one, it isn't made by proffesi
 
 Another thing: you will notice some functions have a common prefix (`graphics_` or `heap_`). That is because I come from an OOP background and am huffing copium by pretending these prefixes are actually static classes.
 
-Oh and the binaries are run in Ring 0 because I'm too lazy to set up proper paging so please don't write malicious programs :
+Oh and the binaries are run in Ring 0 because I'm too lazy to set up proper paging so please don't write malicious programs :\)
